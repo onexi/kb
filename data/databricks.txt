@@ -1,0 +1,67 @@
+title: Databricks keeps marching forward with $1.6B in revenue - Demand for data services is not abating anytime soon
+---------------------------------
+authors: Ron Miller, Alex Wilhelm
+---------------------------------
+category: 
+---------------------------------
+tags: 
+---------------------------------
+topics: 
+---------------------------------
+url: https://tcrn.ch/3T1KfJs
+---------------------------------
+date: 2024-03-07
+---------------------------------
+content: 
+
+At a time when many enterprise companies have struggled to find growth and valuations have plunged, Databricks continues to prove the exception. In September the company raised $500 million on a massive $43 billion valuation. This week the company announced some impressive revenue numbers to justify that investor confidence.
+
+For the year ending January 31, 2024, the late-stage startup pulled in $1.6 billion, a number that represented growth of more than 50% over the prior year. That’s impressive revenue growth no matter what time period we’re talking about — but especially these days.
+
+As a private company, it doesn’t have to publicly reveal its numbers, but with growth like that, why not shout them from the rooftops? The public markets remain a very tough space, so it appears that Databricks is content to stay private for the time being, while letting customers and investors know it’s doing extremely well, thank you very much.
+
+How is it that Databricks continues to grow at this rate more than 10 years after launching? The company is seemingly in the right place at the right time, helping companies store and process huge piles of data at a time when data has become the center of enterprise computing. It is the fuel for artificial intelligence, and large language models, in particular, require gobs of it. Databricks is happy to be the place where companies go to deal with all that data, says Ray Wang, founder and principal analyst at Constellation Research. “They are now the default for AI and data,” Wang told TechCrunch.
+
+Perhaps not the default, but Databricks is certainly one of the key players along with Snowflake, which at this point appears to be the company’s primary competitor. Founded just a year before Databricks in 2012, the two companies have grown together as the market’s appetite for data has increased.
+
+Both have reaped the rewards of that hunger by providing a place to store, process and put that data to work. Snowflake has been a public company since 2020, and although Databricks has chosen to remain private, its revenue is like that of a public company, and Wang says the company is preparing an eventual IPO.
+
+“They have had to prepare for an IPO, but now that they are taking market share and growing, they can postpone going public. That’s why they can report numbers now like a public company,” he said.
+
+And Dharmesh Thakker, general partner at Battery Ventures, who was an early investor in the company, thinks the company is just getting started. “We’ve been fortunate to be an early investor in Databricks and support CEO Ali Ghodsi on his growth journey to almost 100x top-line growth since we invested,” Thakker told TechCrunch. “Yet even at $1.6 billion in revenue, it still feels like the company is in the early stages of growth, based on the broader market and the company’s competitive position.”
+
+Let’s give ’em something to talk about
+TechCrunch has covered Databricks’ ascent as a private company exhaustively over the years thanks to its welcome penchant for sharing results. Those prior disclosures allow us to frame Databricks’ recent growth cleanly. The image that emerges is an enterprise software company that is growing faster than any of its public comps, and with critical momentum in a key software business metric that should help it keep its growth flowing this year.
+
+In its most recent fiscal year, the 12-month period ending January 31, 2024, Databricks generated more than $1.6 billion worth of revenue, powered in part by the company’s Databricks SQL product (data warehousing) growing more than 200% year-over-year to a run rate of more than $250 million.
+
+Partially fueled by the rapid ascent of Databricks SQL, Databricks’ growth rate of more than 50% makes it a one-off company in enterprise software growth terms among companies of its size. Among public software companies tracked by the Bessemer Venture Partners’ Cloud Index, the fastest growing public software company today is SentinelOne, which grew at 42% in its most recently reported quarter. No other public software company has a growth rate over 40%, with even Snowflake posting just 31.5% growth in total revenue in its most recent quarter.
+
+Notably, Databricks is not growing on the back of selling its services too cheaply; the company told TechCrunch that in its most recent fiscal year, it had gross margins for its subscription products of more than 80%. That means that the revenue that the company is accreting is high-quality, even for a software business.
+
+And its customers are buying lots more of what Databricks has on offer over time. The company disclosed that it has a “net expansion rate” of 140% in its most recent fiscal year. Again for comparison, Snowflake’s own net retention calculation was 131% in its most recently reported quarter. (We’re using Snowflake as a measuring stick for Databricks not only because they share a focus on data, but also because Snowflake has been one of the most impressive public software companies since its IPO, and thus makes for a good “high water mark” to stack Databricks against.)
+
+Growth from smaller products and strong net retention help explain how Databricks has scaled as quickly as it has. The company disclosed in August 2022 that it had reached a $1 billion annualized run rate, and $800 million worth of annual recurring revenue at the end of 2021. In about two years, therefore, the company more than doubled (trailing revenue as the company reported most recently is more conservative than an annualized figure, in case you are checking our math).
+
+Clearly being a company that stores, scoots and analyzes data for customers is a lucrative place to be today; Databricks’ recent results and Snowflake’s own make that clear. Akin to how Nvidia is emerging as one of — if not the — winners in the current AI race thanks to its chip business, Databricks is enjoying bolstered demand thanks to AI as well.
+
+The company will not have to depend too heavily on its net retention number to keep it growing, telling TechCrunch that generative AI–related business helped it post its best ever quarter in bookings terms, doubling its prior record. That bodes well for Databricks’ year.
+
+So, what’s all that worth?
+
+Let’s do some really simple math
+The exact quote is lost to time, but once while speaking with Ghodsi about his business, he noted that much of the work TechCrunch has executed to track his company’s value boiled down to arithmetic. Correct! So, let’s do some more simple math.
+
+As Databricks has no precise peer in public-comps terms thanks to its leading growth rate, we have to come up with a revenue multiple for it using a bit more back-of-the-envelope calculation than we’d like. But, still, the most valuable software companies today on the public markets are worth about 22x their trailing revenues per Bessemer. At $1.6 billion, that puts Databricks’ worth at about $35 billion. That’s very close to its latest private-market valuation and makes our prior point that the company was growing its way into its nosebleed worth despite a more challenging valuations climate.
+
+Throw in another few quarters’ growth, and Databricks could argue with some conviction that it is worth the same, or more, than its private-market price when it does eventually go public. That presumes, of course, that its growth rate continues to increase and doesn’t decelerate too much further. (In its fiscal year ending January 31, 2023, the company noted a greater than 60% growth rate, about 10% higher than what it reported for its most recent fiscal year.)
+
+Provided that Databricks’ burn rate is modest (the company declined to comment on its current profitability), this is the IPO that tech companies have been waiting for. If Databricks prices intelligently when it does list, it could pry open the IPO window on its own. Sadly for us S-1 nerds, Ghodsi told The Wall Street Journal (which first reported many of the above numbers) that the IPO market is not too open at the moment. To which we would respond, “Yes, so go open it,” but it doesn’t seem that we’re going to see Databricks go out soon. Even if it has the numbers to do so.
+
+---------------------------------
+id: 
+---------------------------------
+img_src: 
+---------------------------------
+section: 
+---------------------------------

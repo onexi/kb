@@ -1,0 +1,68 @@
+title: Embedded finance might represent fintech’s future
+---------------------------------
+authors: Romain Dillet
+---------------------------------
+category: 
+---------------------------------
+tags: 
+---------------------------------
+topics: 
+---------------------------------
+url: https://tcrn.ch/3jLbAws
+---------------------------------
+date: 2020-10-05
+---------------------------------
+content: 
+
+The fintech industry is on a tear. Popular consumer services like Robinhood to Coinbase and Revolut have managed to attract millions of customers, but the most interesting trend right now is embedded finance.
+
+Tech companies that don’t necessarily provide financial services can embed services from fintech companies directly in their products. At the same time, fintech companies can find a new distribution channel by providing financial products outside of their main product. They don’t necessarily need a consumer product anymore.
+
+At TechCrunch Disrupt, we talked about this trend and the most important changes in the fintech industry with three experts — Hope Cochran, a managing director at Madrona Venture Group (and former King CFO), Ruth Foxe Blader, a partner at Anthemis, and John Locke, a partner at Accel.
+
+Banking as a service: Every tech company is potentially a fintech company
+We started the conversation by talking about banking as a service. For entrepreneurs hoping to launch a fintech company, there are many regulatory requirements and it can take a while to set up the infrastructure.
+
+“If the intention is to offer something else and it happens that you need fintech infrastructure, then it makes no sense to build it yourself,” Cochran said. “They should utilize the banking-as-a-service model. But maybe their intention is to create a true fintech and the secret sauce is to build it.”
+
+Even in the latter case, it doesn’t mean that founders shouldn’t consider banking as a service for the very beginning of their company, as it can serve as a bridge before switching to their own infrastructure.
+
+“But the problem with building it yourself is that it takes years to get it out there and get through the regulatory hurdles and you can’t see if your product and idea are actually working. So if you want to get to market much faster and iterate and see if you’ve hit upon something that will work on the market, I think banking as a service is a really important tool,” Cochran said.
+
+Locke doubled down on that idea and described banking as a service as a massive opportunity for an entire wave of entrepreneurs, but if you don’t launch your product fast enough, another entrepreneur will find a way to enter the market more quickly.
+
+“It is easier to launch fintech brands than ever before because you can use some of those banking-as-a-service tools, whether it’s card issuing, ACH transfers, credit, stocks or whatever you want to have in your own app. You don’t necessarily have to build all that yourself,” Locke said. “That’s causing a lot of really talented entrepreneurs to get into the market. There’s less barrier to entry to launching those brands. There’s a fair bit of capital to support them through the growth stages.”
+
+Banking-as-a-service products aren’t just designed for entrepreneurs focused on launching their next startup. Existing tech companies might use those products even though they are not necessarily fintech companies.
+
+“What we’re also seeing is the opportunity to integrate financial products and services into other industries thanks to technology,” Foxe Blader said. “Basically, every industry is impacted by — or potentially can be impacted by — fintech. The financial infrastructure is the backbone of our economy and in some ways our society. I do think there’s a fintech moment.”
+
+Because of that, many startups will eventually become fintech companies at some point: They’re not going to pivot to fintech, but they’ll have some fintech features.
+
+“Companies trip into being a fintech company without even realizing it and it happens quite easily. The minute they want to move money, the minute they want to hold money as part of a way to make it easier for consumers, they trip into being a fintech,” Cochran said. “It might not be the core piece of their business but I do think they end up needing the tools that a fintech company would need.”
+
+There are still more opportunities for challenger banks
+John Locke is an investor in Monzo, a challenger bank with millions of customers in the U.K. It feels like there are a ton of challenger banks popping up around the world, such as N26, Nubank, Chime and others. Is it still a good time to launch a challenger bank?
+
+“I think it’s a good idea,” Locke said. “If you fast-forward over the next decade, there are going to be new neobanks that create value in all markets around the world. It’s mobile. We’re focused on Monzo in Europe, but we’re also likely to make a few more investments in other places around the world because I think it’s playing out in all geographies.”
+
+While some of the most established challenger banks could become leaders in multiple countries, retail banking is still a fragmented market. But a fragmented market with a lot of value creation.
+
+“Just focused on the U.K., the fifth- or sixth-largest bank that is just a U.K. bank is a $10- or $15-billion dollar company. There are a lot of market opportunities in each of these markets,” Locke said.
+
+It’s not going to be an easy ride though. Providing payments is one thing, but challenger banks will have to own the primary bank relationship and provide a large set of products, from loans to mortgages and everything you’d expect from a traditional bank.
+
+Pay attention to regulation
+At this point, you might be thinking about launching a fintech startup or adding a fintech component to your product. You have to keep in mind that regulation is important when you’re dealing with other people’s money. Your approach to regulation will vary depending on your scale and your background.
+
+“There are different ways to start your regulation team. There are some regtech companies that are working on automating that. There are also other companies that you can work with to outsource several aspects,” Foxe Blader said.
+
+“I’m inclined to say that you have to have a mind for it from day one. It depends on the experience of the team, whether that means staffing it or borrowing or buying in. I don’t think it’s a topic that you can ignore for very long and I think it certainly is a very early hire to companies, particularly fast-growth companies. Growth can be a risk if it isn’t handled in a compliant way,” she added.
+
+---------------------------------
+id: 
+---------------------------------
+img_src: 
+---------------------------------
+section: 
+---------------------------------

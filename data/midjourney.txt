@@ -1,0 +1,41 @@
+title: This Week in AI: Midjourney bets it can beat the copyright police
+---------------------------------
+authors: Kyle Wiggers, Devin Coldewey
+---------------------------------
+category: 
+---------------------------------
+tags: 
+---------------------------------
+topics: 
+---------------------------------
+url: https://tcrn.ch/495K99S
+---------------------------------
+date: 2024-03-16
+---------------------------------
+content: 
+
+Keeping up with an industry as fast-moving as AI is a tall order. So until an AI can do it for you, here’s a handy roundup of recent stories in the world of machine learning, along with notable research and experiments we didn’t cover on their own.
+
+Last week, Midjourney, the AI startup building image (and soon video) generators, made a small, blink-and-you’ll-miss-it change to its terms of service related to the company’s policy around IP disputes. It mainly served to replace jokey language with more lawyerly, doubtless case law-grounded clauses. But the change can also be taken as a sign of Midjourney’s conviction that AI vendors like itself will emerge victorious in the courtroom battles with creators whose works comprise vendors’ training data.
+
+Generative AI models like Midjourney’s are trained on an enormous number of examples — e.g. images and text — usually sourced from public websites and repositories around the web. Vendors assert that fair use, the legal doctrine that allows for the use of copyrighted works to make a secondary creation as long as it’s transformative, shields them where it concerns model training. But not all creators agree — particularly in light of a growing number of.studies showing that models can — and do — “regurgitate” training data. 
+
+Some vendors have taken a proactive approach, inking licensing agreements with content creators and establishing “opt-out” schemes for training data sets. Others have promised that, if customers are implicated in a copyright lawsuit arising from their use of a vendor’s GenAI tools, they won’t be on the hook for legal fees.
+
+Midjourney isn’t one of the proactive ones.
+
+On the contrary, Midjourney has been somewhat brazen in its use of copyrighted works, at one point maintaining a list of thousands of artists — including illustrators and designers at major brands like Hasbro and Nintendo — whose works were, or would be, used to train Midjourney’s models. A study shows convincing evidence that Midjourney used TV shows and movie franchises in its training data, as well, from “Toy Story” to Star Wars” to “Dune” to “Avengers.”
+
+Now, there’s a scenario in which courtroom decisions go Midjourney’s way in the end. Should the justice system decide fair use applies, nothing’s stopping the startup from continuing as it has been, scraping and training on copyrighted data old and new.
+
+But it seems like a risky bet.
+
+Midjourney is flying high at the moment, having reportedly reached around $200 million in revenue without a dime of outside investment. Lawyers are expensive, however. And if it’s decided fair use doesn’t apply in Midjourney’s case, it’d decimate the company overnight.
+
+---------------------------------
+id: 
+---------------------------------
+img_src: 
+---------------------------------
+section: 
+---------------------------------

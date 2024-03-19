@@ -1,0 +1,38 @@
+title: Airtable is now valued at $5.77B with a fresh $270 million in Series E funding
+---------------------------------
+authors: Jordan Crook
+---------------------------------
+category: 
+---------------------------------
+tags: 
+---------------------------------
+topics: 
+---------------------------------
+url: https://tcrn.ch/3tkU1Ib
+---------------------------------
+date: 2021_03_15
+---------------------------------
+content: 
+
+Airtable, the no-code relational database that has amassed a customer base that spans 250,000 different organizations, has today announced the close of $270 million in Series E funding. The valuation comes out to $5.77 billion post-money, more than doubling its valuation from September, when it raised $185 million in Series D funding.
+
+This latest round was led by Greenoaks Capital, with participation from WndrCo, as well as existing investors Caffeinated Capital, CRV and Thrive.
+
+The company says it plans to use the funding to accelerate the development of its enterprise product and growing the team. Also of note: Founder and CEO Howie Liu told Forbes that he was approached by Greenoaks, rather than actively seeking funding.
+
+Airtable is a relational database that many describe as a souped-up version of Excel or Google Sheets. Being such, and having the infrastructure to support an app ecosystem on top of that, means that this no-code tool can actually be used to write software. In other words, the use cases are nearly infinite, and so is the potential customer base.
+
+Greenoaks Capital partner Neil Mehta basically said as much in the press release:
+
+    We believe Airtable is chasing a massive opportunity to become the ‘residual’ software platform for every bespoke and custom use case that is either performed manually today or structurally underserved by rigid third-party software. By equipping business users with fundamental software primitives that can be assembled together into powerful business applications, Airtable has become central to its users’ everyday workflows but at the same time is scalable and extensible enough to support incredibly complex enterprise use cases like ticketing, content management, and CRM.
+
+
+Airtable has raised a total of $617 million since inception, according to Crunchbase.
+    
+---------------------------------
+id: 
+---------------------------------
+img_src: 
+---------------------------------
+section: 
+---------------------------------

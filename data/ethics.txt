@@ -1,0 +1,77 @@
+title: How to implement an actionable data ethics framework
+---------------------------------
+authors: John Story
+---------------------------------
+category: 
+---------------------------------
+tags: 
+---------------------------------
+topics: 
+---------------------------------
+url: https://tcrn.ch/30Dao9V
+---------------------------------
+date: 2021-11-19
+---------------------------------
+content: 
+
+Did you know your company’s data privacy practices can be a competitive differentiator? Usually, we think of competitive differentiators around the level of service you provide, the quality of your products or even the price point for your solutions.
+
+However, no matter the industry, if you participate in the ecosystem of personal data, how you handle that data could make or break your business — literally — which means it can also help set you apart from competitors.
+
+Consumers today mistrust how companies use their data and will only share personal information for transactions they view as important, such as those in the healthcare or financial services industries.
+
+But winning the trust of consumers often goes hand-in-hand with winning their business: 87% of surveyed U.S. consumers said they would not do business with a company if they had concerns with its privacy practices. Amid this lack of trust, companies like Google and Apple are taking proactive steps to position themselves favorably with consumers: Third-party cookies going by the wayside and the release of iOS 15 are two stark examples of this.
+
+For other players in the data landscape, it’s critical to reevaluate your practices as well. Whether your company is just starting out or has an established market presence, there are specific actions you can take to position your company for success, and it all starts with developing and publishing a data ethics framework.
+
+Assess how customers want their data treated
+A data ethics framework is a set of guiding principles for how your company collects, stores, uses and deletes data. This framework will differ for each individual company based on the industry it sits in and the customers it interacts with, but at the most basic level, it must consist of what you believe and how you act.
+
+The first step in creating this framework is understanding what the expectation is from your customers and data subjects around how they want their data treated. We call this the Platinum Rule: treating people’s data the way they want it to be treated.
+
+What consents have they provided? Are there any gaps in how you communicate how their data is used? Do you have processes in place for not only ethically collecting data but deleting it as well?
+
+Evaluate your privacy policies and the experience consumers have with them (i.e., if they’re easy to comprehend) to understand at a granular level how consumers want their data treated.
+
+Hire a chief data ethics officer
+Hiring a chief data ethics officer (CDEO) to steward the creation of a data ethics framework is also a key step. Unlike a chief data officer, who must manage data and draw business value from it, the CDEO is primarily responsible for ensuring data is used ethically by all employees and partners.
+
+By dedicating a member of the executive team to this specific task, your company is showing that you’re not just talking about data ethics because it’s the right thing to do — you’re making an investment to ensure data ethics are upheld.
+
+Part of the CDEO’s mandate will be to create the data ethics framework, but it shouldn’t just be up to them — your entire executive team, including the CEO, CISO, CMO, head of product and engineering, and chief data scientists must be involved. Each of these stakeholders plays a role in the data ecosystem and must be part of the development of data ethics principles so there’s buy-in from all parts of the organization. Privacy practices are a core concern that each of these players is typically involved with; now, they must be involved with data ethics as well.
+
+Evaluate your organization’s data practices
+When the team is assembled that will contribute to crafting your organization’s data ethics framework, it’s now time to get a granular understanding of your data inventory process: what you collect, how you collect it and where you store it.
+
+This technical understanding of what you do with data is something your company should already understand from a legal perspective. Ensure that all stakeholders are clear and aligned with this process.
+
+However, if processes must be changed, now is the time to do so. For example, if you review your privacy policies and realize they’re too lengthy, difficult to understand or something users just click through without absorbing the information, it may be necessary to redesign how you present privacy consent forms.
+
+Rather than sharing a big block of text filled with legal jargon, consider a layered approach that uses colloquial language and visuals, organizing the information in a more digestible way. By presenting this information to users in a way they can understand, your company is on its way to operating more ethically.
+
+Operationalize your data ethics framework
+Now it’s time for your executive team to align on how your company acts and, at a philosophical level, what you want it to become or do — this is the basis of your framework.
+
+You should outline specific actions your company takes to uphold ethical data practices today by publishing data ethics principles. But remember: The data landscape is constantly evolving, which means your data ethics framework should as well. Creating a set of guiding principles that can be revised and refined over time is key.
+
+These principles must be disseminated to all internal and external stakeholders for your framework to take effect. Make prospective job applicants aware of your data ethics principles through the job description or other means so that before they even start working for your company, they understand how critical ethical practices are.
+
+Once candidates are hired, ensure data ethics discussions are part of onboarding. Provide ongoing training on a company and department level and make data ethics a foundational matter of employee conduct. It’s not enough to just make the principles available to read — every employee from the CEO to interns should be accountable for ethical data practices.
+
+Your partners, suppliers, data processors and customers should be aware of these practices as well. By making ethical data management part of any business discussion, you can set expectations and ensure your company aligns itself with other players in the industry who operate ethically. And when data ethics principles are readily available for any customer or partner to access, you’ll be operating in a transparent way, which demonstrates nothing nefarious is happening behind the scenes.
+
+Don’t wait to get started
+It’s never too late to create and implement a data ethics framework, but the best step a company can take is implementing this framework from the outset of the business.
+
+For early-stage startups, this is good news — it can be very difficult to insert this framework into business functions that are already in motion. For more established brands, it may be trickier to implement, but the sooner you do, the better off your company will be.
+
+Once a data ethics framework is in place, remember to continuously evaluate the accuracy and quality of your data. If you leverage outdated, incomplete or inaccurate data, you could risk losing customer trust, undermining all the work your company has done to operate more ethically.
+
+With continuous improvement and accountability, businesses can win trust and be set up for long-term success.
+---------------------------------
+id: 
+---------------------------------
+img_src: 
+---------------------------------
+section: 
+---------------------------------

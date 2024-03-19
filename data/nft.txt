@@ -1,0 +1,86 @@
+title: Top NFT collections are bringing in millions of dollars weekly, but which will survive?
+---------------------------------
+authors: Jacquelyn Melinek
+---------------------------------
+category: 
+---------------------------------
+tags: 
+---------------------------------
+topics: 
+---------------------------------
+url: https://tcrn.ch/3EyDozn
+---------------------------------
+date: 2022-04-20
+---------------------------------
+content: 
+
+The wild world of NFTs has taken the crypto world by storm in the past 12 months, and while they’re not loved by everyone, they’ve caught most people’s attention due to the sheer volume and number of projects popping up in the space.
+
+The most popular NFTs are often the most valuable, too, with buyers spending hundreds of thousands to millions of dollars to buy an NFT— often tied to a community — that they can either hold onto or later trade for a profit (or loss). But how truly liquid is the blue-chip NFT marketplace?
+
+The top 50 blue-chip NFT collections have had multimillion-dollar sales in the past seven days, according to NFT data aggregator CryptoSlam. During that time, the top 10 NFT collections alone brought in over $500 million worth of trades across 19,468 unique buyers, the data showed.
+
+But many NFT holders said that this demand comes with inherent risk and market volatility, among other factors, which play a part in the future of these digital collectibles and their liquidity.
+
+It’s also worth noting the number of high-roller NFT buyers is typically smaller than the participants in the larger marketplace for NFTs, but PROOF Collective’s new — and possibly blue-chip — Moonbirds NFTs were officially minted on April 16 and accounted for the majority of the sales tracked by CryptoSlam over the last seven days, raking in $297 million across 10,813 buyers. (A mint is when a digital file is turned into an NFT or digital asset on a blockchain, usually Ethereum or Solana, and its information is permanently stored on the blockchain.)
+
+Even with Moonbirds, on April 17, the day after its launch, there were over 10,000 buyers. But that number plummeted to just 296 on April 19, CryptoSlam data showed. The floor price, which is the lowest amount of money you could spend for the digital collectible in the collection, also fell around 16% in the past 24 hours.
+
+“The problem is when prices are going down, it goes fast,” Nick O’Neill, CEO and co-founder of The Nifty, said to TechCrunch. “That’s especially the case in NFTs. When people start getting concerned, prices can move dramatically.”
+
+Bored Apes are anything but boring
+One of the most popular NFT collections is Bored Ape Yacht Club (BAYC), a collection of 10,000 apes on the Ethereum blockchain. It currently has a floor price of over 113 ether, or $351,868. To date, 496,700 ether, or $15,466,641,960, of volume for BAYC has been traded, according to OpenSea data.
+
+“If I sold my [BAYC] right now for 50 ETH, it would sell in two seconds. If I sell it at even 80 ETH, it would probably sell in a matter of seconds, too, just because of the current market,” O’Neill said.
+
+While BAYC’s floor price is near its all-time high, there was a time when it dropped 37% from February 26 to March 10, 2022, OpenSea data showed, right before it launched its cryptocurrency, ApeCoin. Prices have since recovered, but it’s a signal that even the biggest NFT projects can face downturns.
+
+In March 2022, Yuga Labs, the parent company behind BAYC and others, raised $450 million in a massive seed round led by Andreessen Horowitz, valuing the firm at $4 billion. The NFT company showed no signs of slowing down even before this capital raise, acquiring CryptoPunks and Meebits from Larva Labs earlier that month to expand its position into popular NFT projects.
+
+“In this market, I don’t think there’s necessarily a liquidity problem,” O’Neill said. “The liquidity problem will show up, though, when everyone wants to sell and when the market closes. The best time to sell is on the way up generally.”
+
+Limited buyers, but big spenders
+NFTs are far more liquid than the physical art market, O’Neill said. “If you try to sell a painting that’s worth more than a couple hundred dollars, you won’t get any buying action unless you go to a traditional market.”
+
+While traditional art may have a less liquid market, blue-chip NFTs are limiting because to buy one, the full amount in cryptocurrency is required, which often limits the purchasing pool to a small group of people.
+
+“The cheapest BAYC is north of $350,000 — if you have that in cash, you can put a down payment on a home,” Josh Bobrowsky, CEO of Parzival Fund, said to TechCrunch. “That’s something people don’t realize is not only are these expensive, there’s no leverage; if you buy a Lamborghini, you might only need $50,000 to put down on a $4 million Lamborghini. But if you want a BAYC, you need the full amount of cash in ethereum today, completely liquid.”
+
+In the past 30 days, there were 40,038 buyers across the top 10 NFT collections by sales volume, CryptoSlam data showed. While that may seem like a fair number of people, the NFT community overall had more than 458,424 monthly NFT traders in March, according to Dune Analytics data compiled by user hildobby, so those 40,038 buyers only make up 8.7% of the total NFT trader ecosystem.
+
+“I always look at how many people are engaging; it matters how many people are engaging and buying,” said William Quigley, co-founder of NFT marketplace WAX and previous co-founder of Tether, the world’s largest stablecoin by trading volume.
+
+“For example, if I look at a company and it sold one product for a million dollars to one person and another company sold a million articles of clothing for a dollar to a million people, I think I’d do better with the million people,” Quigley told TechCrunch. “In any given day, most of these NFT marketplaces and collections have single digits to several dozen people trading at super high prices — that’s what you expect.”
+
+Once the big spenders who can afford expensive blue-chip NFTs have spent their money and bought a few, trading will slow, Quigley said. “If you think about traditional art, it’ll trade hands once every 10 to 20 years and these things are presented as rare art,” Quigley said. “Rare art doesn’t trade daily. Even collectible sneakers go a month or so between flipping.”
+
+What’s the lifespan of blue-chip NFTs?
+A number of market players have said that although there have been huge amounts of money pooling into the NFT market — more specifically, the top NFT projects — it doesn’t necessarily mean those collections will retain value long term.
+
+“The newness of the space means there’s inherently an enormous amount of volatility that is still not fully priced into the market,” Bobrowsky said. “For me, I’m looking at 95% of the blue-chip NFTs that are less than one year old.”
+
+But what makes an NFT project coveted and cool? There’s no clear recipe, Quigley joked. With something like BAYC, there were only 93 buyers in the past seven days across the 10,000 apes collected. While not all BAYC NFTs are listed, these buyers make up a small fraction across a big supply.
+
+“I don’t think it’s bad if some projects are illiquid as long as the price isn’t sliding, because if there’s no demand, that’s obviously not great for projects,” Joe Conyers, executive vice president and global head of NFTs at Crypto.com, said to TechCrunch. “If there is an ability to take liquidity out at any time, people are less likely to exercise that. When there’s less liquidity, people will be more likely to go in and take the last depth of that liquidity.”
+
+A unique feature of the NFT market is that when collectors are worried about the liquidity of the project they’ve invested in, the “idea” that there’s a way to get out can prevent panic selling, he said. “It helps stabilize the NFT market more quickly than other markets when there’s volatility.”
+
+But this isn’t always the case, Conyers said. “When there is a run to get liquidity and everyone needs it and wants it, it’s going to be more painful and more evident when liquidity is very visibly dried up,” he said. “Compared to another market where someone’s like, ‘Well, maybe someone will buy that’ or, ‘I can always call so and so to sell it.’”
+
+Similar to the dot-com bubble, there were many seemingly successful companies at the time that later failed, Bobrowsky said. “You had Amazon, Google, and a lot of really good companies up there that still exist, but you still had a lot [of companies] that went bankrupt.”
+
+“You have to realize MySpace had a really strong run for four or five years,” Bobrowsky said. “They still got usurped by Facebook. So when people look at these blue chips, you have to approach with a caveat of skepticism. With a lot of the tactics going on, we’re still very early in the space and people should be really careful.”
+
+There’s some sustainability to this market, O’Neill said. “But with that said, I’m not an idiot and I don’t look at all my money in NFTs and say, that’s really secure.”
+
+Going forward, this part of the market “will look like ancient history in a couple of years,” O’Neill said, adding that “90% of these NFTs are going to be worthless, maybe even closer to 99%. I even wonder about the sustainability of my Bored Ape or my Mutant Ape.”
+
+Bobrowsky shared a similar sentiment, suggesting that over time, maybe 1% to 5% of the blue-chip NFTs will maintain or increase their value. But as more blue-chip NFTs enter the space, only time will tell if buyers and liquidity will come with them.
+
+---------------------------------
+id: 
+---------------------------------
+img_src: 
+---------------------------------
+section: 
+---------------------------------
